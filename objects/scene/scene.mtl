@@ -1,0 +1,44 @@
+# Blender 3.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl High_Cliff_Mat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd High_Cliff_Diffuse.png
+map_Bump -bm 1.000000 High_Cliff_Normal.png
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd sandTexture1.png
+
+newmtl Material.003
+Ns 0.000000
+Ka 0.905512 0.905512 0.905512
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd palmtree.png
+map_d palmtree.png
+
+newmtl P6DesertCliffM
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd P6DesertCliff-Albedo.png
+map_Ns P6DesertCliff-Roughness.png
+map_Bump -bm 1.000000 textures/P6DesertCliff-Normal.png
